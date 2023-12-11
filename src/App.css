@@ -10,3 +10,14 @@ body {
   font-family: "Inter", sans-serif;
   box-sizing: border-box;
 }
+
+ol,
+ul {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+/* check pull request */
